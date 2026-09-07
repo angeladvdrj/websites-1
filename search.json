@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "A New Website"
+  },
+  {
+    "objectID": "about.html#to-learn-more-about-quarto-websites-visit-httpsquarto.orgdocswebsites.",
+    "href": "about.html#to-learn-more-about-quarto-websites-visit-httpsquarto.orgdocswebsites.",
+    "title": "About",
+    "section": "To learn more about Quarto websites visit https://quarto.org/docs/websites.",
+    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\ntitle: “About” author: “Angel Davaadorj” —\nangeladvdrj"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Angel Davaadorj",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  }
+]
