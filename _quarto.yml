@@ -2,7 +2,7 @@ project:
   type: website
 
 website:
-  title: "A New Website"
+  title: "Angel Davaadorj"
   navbar:
     left:
       - href: index.qmd

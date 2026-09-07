@@ -1,5 +1,6 @@
 ---
-title: "A New Website"
+title: "Angel Davaadorj"
+author: "Angel Davaadorj"
 ---
 
 This is a Quarto website.

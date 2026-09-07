@@ -1,5 +1,10 @@
+A New Website
+
+
+To learn more about Quarto websites visit https://quarto.org/docs/websites.
 ---
 title: "About"
+author: "Angel Davaadorj"
 ---
 
-About this site
+angeladvdrj
